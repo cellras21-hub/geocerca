@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Abastecimento
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99dbc200
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99dbc200
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0550041406,-19.8398594225,0 -40.0549168309,-19.8400351682,0 -40.0546447246,-19.8398997906,0 -40.0546528092,-19.8396517183,0 -40.0550041406,-19.8398594225,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Acesso Barcaça 2
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						994fc58e
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						994fc58e
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0596295597,-19.8372074339,0 -40.0595625044,-19.8373108788,0 -40.0602598788,-19.8377145658,0 -40.0603322984,-19.837606075,0 -40.0596295597,-19.8372074339,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Armazém 2
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						990ac2ff
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						990ac2ff
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0571397003,-19.8392096019,0 -40.0580785614,-19.8396965669,0 -40.0568340164,-19.8416443177,0 -40.0558978375,-19.8411144679,0 -40.0571397003,-19.8392096019,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Armazém 6
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						990ac2ff
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						990ac2ff
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0562392588,-19.8381351743,0 -40.0561587925,-19.8381780658,0 -40.0550046402,-19.8400551637,0 -40.0559105014,-19.8405574055,0 -40.0572316762,-19.8385211979,0 -40.0563089963,-19.8381452664,0 -40.0562392588,-19.8381351743,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Barcaça 2
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						9951b24d
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						9951b24d
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0597958566,-19.8382746797,0 -40.0601740481,-19.8376741971,0 -40.0602598788,-19.8377145658,0 -40.0603349806,-19.8376010289,0 -40.0602491499,-19.8375505681,0 -40.060506642,-19.8371594959,0 -40.0607829095,-19.837323494,0 -40.0600721241,-19.8384260615,0 -40.0597958566,-19.8382746797,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Galpão 8
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						996825ea
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						996825ea
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0591574909,-19.8379744387,0 -40.05978781,-19.8382721567,0 -40.0601713659,-19.8376716741,0 -40.0595598222,-19.8373184479,0 -40.0591574909,-19.8379744387,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Manutenção
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99b95341
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99b95341
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0552678043,-19.8394094565,0 -40.054763153,-19.8391176853,0 -40.0546643073,-19.8392959209,0 -40.0546535784,-19.8396365275,0 -40.05500763,-19.8398577445,0 -40.0552678043,-19.8394094565,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Pátio de Granito
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99b95341
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99b95341
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0588934692,-19.8383882632,0 -40.0601714538,-19.8363117727,0 -40.0590717481,-19.8357062366,0 -40.0577842878,-19.837760004,0 -40.0588934692,-19.8383882632,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Rua acesso
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb4289f
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					-40.0571206125,-19.8384354133,0 -40.0572252186,-19.8384455054,0 -40.0572976383,-19.8383748606,0 -40.057705334,-19.8377945626,0 -40.0589055346,-19.8358921563,0 -40.0590261461,-19.8357558869,0 -40.0590690614,-19.8355817949,0 -40.0600802542,-19.8339039417,0 -40.060359204,-19.8336238773,0 -40.0607132555,-19.833404367,0 -40.0612818839,-19.8332403648,0 -40.0618183257,-19.8332832577,0 -40.0620194913,-19.8333715666,0 -40.0618692876,-19.833568369,0 -40.0601070763,-19.8363084386,0 -40.0618290545,-19.8373025221,0 -40.0620329024,-19.8374286744,0 -40.0621401907,-19.8376607944,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Rua Adm. Portocel
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						ddb4289f
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+			</Style>
+			<LineString>
+				<coordinates>
+					-40.0550621599,-19.8401572312,0 -40.0549790114,-19.840008374,0 -40.0560599416,-19.8382170312,0 -40.0561752766,-19.8381161099,0 -40.0563093871,-19.8381034947,0 -40.057116732,-19.8384314888,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>
+				Pátio Manutenção
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99b95341
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99b95341
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0550911745,-19.8401360883,0 -40.0546405634,-19.8399014489,0 -40.054597648,-19.8405195841,0 -40.0548198754,-19.8406886191,0 -40.0548198754,-19.8403681987,0 -40.0550911745,-19.8401360883,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Passagem Trem
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99b95341
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99b95341
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0573286863,-19.8389071695,0 -40.0570616306,-19.8387569971,0 -40.0546664179,-19.8424910283,0 -40.0547039689,-19.8426752046,0 -40.0548005284,-19.8427635082,0 -40.0573286863,-19.8389071695,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Galpão 9
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						996825ea
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						996825ea
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0601418616,-19.8363748257,0 -40.0607775451,-19.8367406692,0 -40.0602464677,-19.8375530911,0 -40.0596349241,-19.8371998647,0 -40.0601418616,-19.8363748257,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Galpão 7
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						996825ea
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						996825ea
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0558895053,-19.8405533798,0 -40.0546715185,-19.8424455461,0 -40.0548300327,-19.8405937477,0 -40.0548273505,-19.8403666781,0 -40.0550660671,-19.8401925911,0 -40.0551116646,-19.84012447,0 -40.0558895053,-19.8405533798,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Barcaça 1
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						9951b24d
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						9951b24d
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.060837455,-19.8389431638,0 -40.0605906918,-19.8387892594,0 -40.0613148883,-19.8376286645,0 -40.0615804269,-19.8377775239,0 -40.060837455,-19.8389431638,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Armazém 3
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						990ac2ff
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						990ac2ff
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.058088301,-19.839677735,0 -40.0571495278,-19.8391983625,0 -40.0573384036,-19.8388980793,0 -40.0570809116,-19.8387643592,0 -40.0577621927,-19.8377728078,0 -40.0588887205,-19.8383934742,0 -40.058088301,-19.839677735,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Armazém 1
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						990ac2ff
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						990ac2ff
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0568296853,-19.8416480238,0 -40.0559016409,-19.8411232436,0 -40.0548287573,-19.8427581302,0 -40.0557889882,-19.8432980427,0 -40.0568296853,-19.8416480238,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Acesso Barcaça 1
+			</name>
+			<description>
+				Avenida José Coutinho Da Conceição, Barra Do Riacho, Aracruz, ES 29197-548, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						9951b24d
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						9951b24d
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.0608387082,-19.8389406202,0 -40.0612678616,-19.8392131062,0 -40.0621575965,-19.8377825277,0 -40.0619912996,-19.8374595783,0 -40.0618464603,-19.8373687487,0 -40.0608387082,-19.8389406202,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+
