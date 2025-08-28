@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Pátio A
+			</name>
+			<description>
+				Via Dois, Montenegro, RS 58920-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99307b19
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99307b19
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-51.4116573369,-29.8297289772,0 -51.4116251504,-29.830678322,0 -51.4077305829,-29.8305759421,0 -51.4077734983,-29.8296638258,0 -51.4116573369,-29.8297289772,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Pátio B
+			</name>
+			<description>
+				John Deere-Portaria 2, Montenegro, RS 95780-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						994fc58e
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						994fc58e
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-51.4116247986,-29.8307131372,0 -51.4116140698,-29.8317090084,0 -51.40774096,-29.8315787081,0 -51.4077516888,-29.8306014501,0 -51.4116247986,-29.8307131372,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+

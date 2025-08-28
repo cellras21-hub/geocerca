@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Planta A
+			</name>
+			<description>
+				Slp-80D, Zona Industrial Logistik, Villa De Reyes, San Luis Potosí 79526, Mexico
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99307b19
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99307b19
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-100.882497652,21.9904315254,0 -100.881123108,21.99301803,0 -100.878666204,21.9919635282,0 -100.879331392,21.9905906745,0 -100.880264801,21.990968708,0 -100.880877598,21.989720222,0 -100.882497652,21.9904315254,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Planta B
+			</name>
+			<description>
+				Slp-80D, Zona Industrial Logistik, Villa De Reyes, San Luis Potosí 79526, Mexico
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						994fc58e
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						994fc58e
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-100.877740666,21.9936647011,0 -100.873685166,21.9920133155,0 -100.874629304,21.9900933069,0 -100.87327747,21.9895262528,0 -100.875004813,21.9860442917,0 -100.877730839,21.9873775116,0 -100.877172939,21.9884419959,0 -100.879733921,21.9895265083,0 -100.877740666,21.9936647011,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+

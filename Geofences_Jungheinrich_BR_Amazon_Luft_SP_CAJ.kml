@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Galpão A Luft
+			</name>
+			<description>
+				Via De Acesso Norte Km 38, Jordanésia, Cajamar, SP 07750-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99307b19
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99307b19
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-46.8374321066,-23.3454384182,0 -46.8347820841,-23.3446799281,0 -46.8336984716,-23.3474873047,0 -46.8363163076,-23.3483048804,0 -46.8374321066,-23.3454384182,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Galpão B Luft
+			</name>
+			<description>
+				Estrada Do Bonsucesso, Cajamar, SP 07750-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						9948210a
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						9948210a
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-46.8337066772,-23.3474640396,0 -46.8326337936,-23.3470946512,0 -46.832703531,-23.3468680926,0 -46.8325265052,-23.3468139154,0 -46.832574785,-23.3466070571,0 -46.8324138524,-23.3465381042,0 -46.832446039,-23.3464396001,0 -46.8322851064,-23.3463755724,0 -46.8323494794,-23.3461588629,0 -46.8321831825,-23.3461096107,0 -46.8323977592,-23.3454545547,0 -46.8322207334,-23.3453954517,0 -46.8322851064,-23.3451787406,0 -46.8321295383,-23.3451245628,0 -46.832150996,-23.3450162071,0 -46.8319954278,-23.3449423281,0 -46.8320516663,-23.344728056,0 -46.8319792466,-23.3446911164,0 -46.8320382552,-23.3444793295,0 -46.8319658356,-23.3444497778,0 -46.8321938234,-23.3438021015,0 -46.8347550691,-23.3446787342,0 -46.8337066772,-23.3474640396,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+

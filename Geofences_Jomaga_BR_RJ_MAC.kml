@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Galpão A
+			</name>
+			<description>
+				Estrada São José E Imboassica, Imboassica, Macaé, RJ, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99307b19
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99307b19
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-41.8628124539,-22.409096825,0 -41.8620292489,-22.4091860928,0 -41.8620882575,-22.4096869836,0 -41.8628821914,-22.4095952364,0 -41.8628124539,-22.409096825,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Galpão C
+			</name>
+			<description>
+				Estrada São José E Imboassica, Imboassica, Macaé, RJ, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99dbc200
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99dbc200
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-41.8629537097,-22.410155753,0 -41.862162458,-22.4102276627,0 -41.8623030981,-22.4113732068,0 -41.8630889853,-22.4112963385,0 -41.8629537097,-22.410155753,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Galpão B
+			</name>
+			<description>
+				Estrada São José E Imboassica, Imboassica, Macaé, RJ, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						994fc58e
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						994fc58e
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-41.8628993401,-22.4097690901,0 -41.8621134528,-22.4098533982,0 -41.8621617326,-22.4102278248,0 -41.8629476198,-22.4101509559,0 -41.8628993401,-22.4097690901,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Galpão A
+			</name>
+			<description>
+				Br-452, Santa Helena De Goiás, GO 75920-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99307b19
+					</color>
+					<width>
+						5
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99307b19
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-50.554990626,-17.9314127534,0 -50.5534885889,-17.9320354214,0 -50.5532901054,-17.931586284,0 -50.5547975069,-17.9309585105,0 -50.554990626,-17.9314127534,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				SAIDA MOEGAS
+			</name>
+			<description>
+				Br-452, Santa Helena De Goiás, GO 75920-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99f39825
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99f39825
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-50.5550595099,-17.9308819049,0 -50.5548610265,-17.9309584628,0 -50.5547349626,-17.9306496791,0 -50.5549280817,-17.9305935366,0 -50.5550595099,-17.9308819049,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				FRENTE MOEGAS
+			</name>
+			<description>
+				Br-452, Santa Helena De Goiás, GO 75920-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99f39825
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99f39825
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-50.5552714044,-17.9313029729,0 -50.5550595099,-17.9314076018,0 -50.5552311713,-17.9317444553,0 -50.5555181677,-17.9316015478,0 -50.5553411419,-17.9313744268,0 -50.5552714044,-17.9313029729,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Galpão B
+			</name>
+			<description>
+				Br-452, Santa Helena De Goiás, GO 75920-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99dbc200
+					</color>
+					<width>
+						5
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99dbc200
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-50.5547813257,-17.9309278635,0 -50.5546525797,-17.9306445991,0 -50.5540973624,-17.930874273,0 -50.5542261084,-17.9311728486,0 -50.5547813257,-17.9309278635,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+

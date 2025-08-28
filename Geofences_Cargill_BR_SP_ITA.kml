@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Pátio A
+			</name>
+			<description>
+				Rua Roupen Tilkian, Barão Ataliba Nogueira, Itapira, SP 13986-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99307b19
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99307b19
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-46.7577471183,-22.3958449971,0 -46.7585249589,-22.3956118863,0 -46.757768576,-22.3937817051,0 -46.7570604728,-22.3940048992,0 -46.7577471183,-22.3958449971,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Pátio B
+			</name>
+			<description>
+				Rua Roupen Tilkian, Barão Ataliba Nogueira, Itapira, SP 13986-000, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						994fc58e
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						994fc58e
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-46.7585464166,-22.395592047,0 -46.75897557,-22.3954581321,0 -46.7582323343,-22.3936402791,0 -46.7577818991,-22.3937717622,0 -46.7585464166,-22.395592047,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+

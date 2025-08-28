@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Armacén B
+			</name>
+			<description>
+				Privada Providencia 9, Zona Industrial 5 De Febrero, Querétaro 76159, Mexico
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						994fc58e
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						994fc58e
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-100.418124368,20.5986915019,0 -100.418339582,20.6002056515,0 -100.41816792,20.6002332692,0 -100.418190895,20.6003888859,0 -100.417867513,20.6004240826,0 -100.417843373,20.6003085903,0 -100.417057486,20.6004215719,0 -100.41692874,20.6003713579,0 -100.416899236,20.6001705016,0 -100.416824134,20.6001805444,0 -100.416727574,20.599979688,0 -100.416594981,20.599108423,0 -100.417453288,20.5990105048,0 -100.41743183,20.5987795181,0 -100.418124368,20.5986915019,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Armazén A
+			</name>
+			<description>
+				Privada Providencia 9, Zona Industrial 5 De Febrero, Querétaro 76159, Mexico
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99307b19
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99307b19
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-100.418014397,20.5979207062,0 -100.41710781,20.5979960284,0 -100.417231192,20.5987969525,0 -100.418116321,20.5986839697,0 -100.418014397,20.5979207062,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Armacén C
+			</name>
+			<description>
+				Privada Providencia 9, Zona Industrial 5 De Febrero, Querétaro 76159, Mexico
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99dbc200
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99dbc200
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-100.4180255,20.5979310071,0 -100.419232494,20.5978255559,0 -100.419299549,20.5978807923,0 -100.419396108,20.5985712448,0 -100.41813547,20.5987193779,0 -100.4180255,20.5979310071,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+

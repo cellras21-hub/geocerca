@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<kml>
+	<Document>
+		<name>
+			Geofences
+		</name>
+		<Placemark>
+			<name>
+				Embalagem
+			</name>
+			<description>
+				Br-101 120, Linhares, ES, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						990ac2ff
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						990ac2ff
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.1255635345,-19.5006628006,0 -40.1249600374,-19.5010420528,0 -40.1255501234,-19.5018157246,0 -40.1261750781,-19.5014162475,0 -40.1255635345,-19.5006628006,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Fábrica I
+			</name>
+			<description>
+				WEG Linhares Fábrica I
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						993946f4
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						993946f4
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.1282313432,-19.5001015971,0 -40.1269063319,-19.5009536522,0 -40.1263403858,-19.5001294091,0 -40.1276653971,-19.4993076902,0 -40.1282313432,-19.5001015971,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Injeção Alumínio
+			</name>
+			<description>
+				Br-101, Linhares, ES, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99dbc200
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99dbc200
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.1269270642,-19.5011206883,0 -40.1256100995,-19.5019626246,0 -40.1262186971,-19.502870222,0 -40.1275615825,-19.5020423111,0 -40.1269270642,-19.5011206883,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				PIT_Abastecimento_GLP
+			</name>
+			<description>
+				Br-101, Linhares, ES, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99b95341
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99b95341
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.1284496703,-19.5014308964,0 -40.1285596409,-19.5015522566,0 -40.1284416237,-19.501630635,0 -40.1283343353,-19.5014941048,0 -40.1284496703,-19.5014308964,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Usinagem
+			</name>
+			<description>
+				Br-101, Linhares, ES, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99307b19
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99307b19
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.1254124294,-19.501901803,0 -40.1248438011,-19.5010826214,0 -40.1234544169,-19.5019624829,0 -40.1239962231,-19.5028018866,0 -40.1254124294,-19.501901803,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Manutenção MEP
+			</name>
+			<description>
+				Br-101, Linhares, ES, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						9948210a
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						9948210a
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.1242384135,-19.5011902854,0 -40.1238950907,-19.5013976094,0 -40.1239809214,-19.501529083,0 -40.1243242442,-19.5013217592,0 -40.1242384135,-19.5011902854,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Fábrica II
+			</name>
+			<description>
+				Br-101 120, Linhares, ES, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						99ba3b69
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						99ba3b69
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.1261807064,-19.5000864064,0 -40.124879835,-19.5009081213,0 -40.1243568043,-19.5001546721,0 -40.1256710867,-19.4993278965,0 -40.1261807064,-19.5000864064,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>
+				Embalagem
+			</name>
+			<description>
+				Br-101 120, Linhares, ES, Brazil
+			</description>
+			<Style>
+				<LineStyle>
+					<color>
+						990ac2ff
+					</color>
+					<width>
+						5.0
+					</width>
+				</LineStyle>
+				<PolyStyle>
+					<color>
+						990ac2ff
+					</color>
+				</PolyStyle>
+			</Style>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-40.1255635345,-19.5006628006,0 -40.1249600374,-19.5010420528,0 -40.1255501234,-19.5018157246,0 -40.1261750781,-19.5014162475,0 -40.1255635345,-19.5006628006,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Document>
+</kml>
+
